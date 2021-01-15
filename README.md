@@ -1,11 +1,8 @@
 # SCA-Cloud-School-Application
-
-This project is an application with Docker.
+This project is an assesment to create an application with Docker.
 
 ## How to run 
-
 The project launch is in two parts: build and run.
-
 ### Build
 
 ```
